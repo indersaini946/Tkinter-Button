@@ -6,5 +6,5 @@ Python with Tkinter
 
 # Contact 
 Email: sainiinder946@gmail.com
-Discord: TwitchBrutus#5987
+Discord: NX Brutus#5987
 
