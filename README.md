@@ -4,7 +4,8 @@ This is a Button Designed with Python with Tkinter. Run this in Idle to see the 
 # Language
 Python with Tkinter
 
-# Contact 
+# Other Info
 Email: sainiinder946@gmail.com
 Discord: NX Brutus#5987
 
+Developed by Inder Saini
